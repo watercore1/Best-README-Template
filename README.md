@@ -80,4 +80,4 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [issues-url]: https://img.shields.io/github/issues/watercore1/repo_name.svg
 [license-shield]: https://img.shields.io/github/license/watercore1/repo_name.svg?style=flat-square
 [license-url]: https://github.com/watercore1/repo_name/blob/master/LICENSE.txt
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: readme/screenshot.png
