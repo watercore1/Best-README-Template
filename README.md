@@ -3,60 +3,48 @@
 ProjectName and Description
 
 <!-- PROJECT SHIELDS -->
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
 
 ![Product Name Screen Shot][product-screenshot]
 
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `repo_name`
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 ### Built With
 
-* []()
-* []()
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
+- []()
+- []()
 
 <!-- USAGE EXAMPLES -->
+
 ## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 <!-- ROADMAP -->
+
 ## ROADMAP
 
-- [ ] Feature 1
+- [x] Feature 1
 - [ ] Feature 2
 - [ ] Feature 3
-    - [ ] Nested Feature
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
+  - [ ] Nested Feature
 
 <!-- LICENSE -->
+
 ## License
 
-Distributed under the MIT License. See [LICENSE.txt](readme/LICENSE.txt) for more information.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
+Distributed under the MIT License. See [License.txt](readme/license.txt) for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
+
 [contributors-shield]: https://img.shields.io/github/contributors/watercore1/repo_name.svg?style=flat-square
 [contributors-url]: https://github.com/watercore1/repo_name/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/watercore1/repo_name.svg?style=flat-square
