@@ -7,8 +7,6 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-<!-- INTRODUCTION -->
-
 ## Introduction
 
 ![Product Name Screen Shot][product-screenshot]
@@ -20,13 +18,9 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 - []()
 - []()
 
-<!-- USAGE EXAMPLES -->
-
 ## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-<!-- ROADMAP -->
 
 ## ROADMAP
 
@@ -34,8 +28,6 @@ Use this space to show useful examples of how a project can be used. Additional 
 - [ ] Feature 2
 - [ ] Feature 3
   - [ ] Nested Feature
-
-<!-- LICENSE -->
 
 ## License
 
