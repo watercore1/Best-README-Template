@@ -1,7 +1,5 @@
 # ProjectName
 
-ProjectName and Description
-
 <!-- PROJECT SHIELDS -->
 
 [![Contributors][contributors-shield]][contributors-url]
@@ -9,9 +7,9 @@ ProjectName and Description
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-<!-- ABOUT THE PROJECT -->
+<!-- INTRODUCTION -->
 
-## About The Project
+## Introduction
 
 ![Product Name Screen Shot][product-screenshot]
 
